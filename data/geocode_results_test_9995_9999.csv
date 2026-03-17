@@ -1,0 +1,6 @@
+row_id,Date of Sale (dd/mm/yyyy),Address,County,Eircode,Price (€),Not Full Market Price,VAT Exclusive,Description of Property,Property Size Description,query,status,lat,lng,confidence,formatted
+9995,20/08/2025,"18 DUNDRUM GATE, BALLINTEER RD, DUNDRUM DUBLIN 16",Dublin,D16Y993,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,"D16Y993, Ireland",OK,53.0,-8.0,1,Ireland
+9996,09/06/2025,"11 CRANNAGH WAY, RATHFARNHAM, DUBLIN 14",Dublin,D14P9P5,"€1,220,000.00",No,No,Second-Hand Dwelling house /Apartment,,"D14P9P5, Ireland",OK,53.0,-8.0,1,Ireland
+9997,21/10/2025,"9 Bayly Way, Bayly, Douglas",Cork,,"€453,744.00",No,Yes,New Dwelling house /Apartment,,"9 Bayly Way, Bayly, Douglas, Cork, Ireland",OK,51.87444,-8.435,7,"Douglas, County Cork, Ireland"
+9998,26/09/2025,"46 BLUE CEDARS, THE PARK, BALLYBOFEY",Donegal,F93E6C3,"€227,000.00",No,No,Second-Hand Dwelling house /Apartment,,"F93E6C3, Ireland",OK,53.0,-8.0,1,Ireland
+9999,25/11/2025,"WILLIAMSTOWN, TRIM RD, NAVAN",Meath,C15Y4X2,"€475,000.00",No,No,Second-Hand Dwelling house /Apartment,,"C15Y4X2, Ireland",OK,53.0,-8.0,1,Ireland
